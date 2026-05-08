@@ -7,7 +7,6 @@
  * License: GPL-2.0-or-later
  */
 
-<?php
 /**
  * Manuálne zálohy Dodatočného CSS
  */
