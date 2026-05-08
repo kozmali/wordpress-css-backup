@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WordPress CSS Backup
+ * Plugin Name: Additional CSS Backup
  * Description: Automatic and manual backups for WordPress Additional CSS with restore and download support.
  * Version: 1.0.0
  * Author: Dominik Kozmáli
