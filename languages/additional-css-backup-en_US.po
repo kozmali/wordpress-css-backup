@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Additional CSS Backup 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-22 10:00+0100\n"
+"PO-Revision-Date: 2024-05-22 10:05+0100\n"
+"Last-Translator: Dominik Kozmáli <https://kozmali.sk>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: additional-css-backup\n"
+
+#. Plugin Name
+msgid "Additional CSS Backup (Zálohovanie Dodatočných CSS)"
+msgstr "Additional CSS Backup"
+
+#. Description
+msgid "Automatické a manuálne zálohy pre Dodatočné CSS s podporou obnovy aj stiahnutia."
+msgstr "Automatic and manual backups for WordPress Additional CSS with restore and download support."
+
+#. Menu titles
+msgid "Zálohy Dodatočného CSS"
+msgstr "Additional CSS Backups"
+
+msgid "Zálohy CSS"
+msgstr "CSS Backups"
+
+#. Backup labels
+msgid "automatická týždenná záloha"
+msgstr "automatic weekly backup"
+
+msgid "automaticky pred obnovou"
+msgstr "automatic before restore"
+
+#. Admin notices
+msgid "Bezpečnostná chyba."
+msgstr "Security error."
+
+msgid "Záloha bola vytvorená!"
+msgstr "Backup created successfully!"
+
+msgid "⚠️ Žiadne zmeny, záloha nebola vytvorená."
+msgstr "⚠️ No changes detected, backup was not created."
+
+msgid "✅ CSS bolo obnovené zo zálohy!"
+msgstr "✅ CSS restored from backup!"
+
+msgid "🗑️ Záloha bola odstránená."
+msgstr "🗑️ Backup has been removed."
+
+#. Dashboard / Page content
+msgid "Aktuálne Dodatočné CSS"
+msgstr "Current Additional CSS"
+
+msgid "Zatiaľ žiadne Dodatočné CSS."
+msgstr "No Additional CSS found yet."
+
+msgid "Vytvoriť zálohu teraz"
+msgstr "Create backup now"
+
+msgid "Posledné zálohy (max. 20)"
+msgstr "Recent backups (max. 20)"
+
+msgid "celkom"
+msgstr "total"
+
+msgid "Dátum"
+msgstr "Date"
+
+msgid "Náhľad CSS"
+msgstr "CSS Preview"
+
+msgid "Akcie"
+msgstr "Actions"
+
+msgid "Zatiaľ žiadne zálohy."
+msgstr "No backups yet."
+
+#. Buttons & Tooltips
+msgid "Obnoviť"
+msgstr "Restore"
+
+msgid "Stiahnuť"
+msgstr "Download"
+
+msgid "Zmazať"
+msgstr "Delete"
+
+msgid "Zálohovať CSS"
+msgstr "Backup CSS"
+
+#. Confirmations
+msgid "Naozaj obnoviť túto zálohu?"
+msgstr "Are you sure you want to restore this backup?"
+
+msgid "Odstrániť túto zálohu?"
+msgstr "Delete this backup?"
